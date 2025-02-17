@@ -44,7 +44,9 @@ main {
     display: flex;
     flex-direction: column;
     gap: 12px;
+    
 }
+
 main section {
     text-align: center;
     position: relative;
@@ -69,7 +71,6 @@ main section a:hover {
     text-decoration: underline;
 }
 
-
 main .main-section h1 {
     color: var(--title-primary-color);
     font-size: 3rem;
@@ -92,7 +93,6 @@ main .main-section sub {
     font-size: 0.9rem;
 }
 
-
 main .main-section .text-wrapper {
     position: absolute;
     left: 50%;
@@ -103,7 +103,6 @@ main .main-section .text-wrapper {
     margin-top: 51px;
 
 }
-
 
 main .spirited-section > div {
     position: absolute;
@@ -174,7 +173,6 @@ main .iphone-section .link-wrapper {
     justify-content: center;
     gap: 8px;
 }
-
 
 main .iphone-section .text-wrapper {
     position: absolute;
